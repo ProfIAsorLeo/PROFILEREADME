@@ -1,3 +1,6 @@
+#I AM STILL ALIVE 
+#AINDA ESTOU AQUI E SEMPRE APRENDENDO
+
 # Olá, eu sou Leonardo Cassiano 👋
 
 Sou um profissional com mais de 10 anos de experiência em áreas técnicas, incluindo suporte técnico, manutenção e **automação de processos**. Atualmente, estou focado em **desenvolvimento de software**, com ênfase em **Google Apps Script**, **Python** e **automação**.
