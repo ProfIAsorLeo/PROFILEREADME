@@ -9,7 +9,7 @@ Estou aprofundando meus conhecimentos em **tecnologias Web3**, incluindo **block
 ## 👨‍💻 Habilidades
 
 *   **Linguagens de Programação:**
-    *   **Google Apps Script (Avançado)**
+    *   **Google Apps Script (Intermedário)**
     *   **Python (Intermediário)**
     *   JavaScript (Intermediário)
     *   HTML5 (Avançado)
@@ -22,17 +22,17 @@ Estou aprofundando meus conhecimentos em **tecnologias Web3**, incluindo **block
     *   **Google Colab**
     *   **Git**
     *   **GitHub**
-    *   **Visual Studio Code**
     *   **API da OpenAI**
     *   **Next.js**
     *   **TypeScript**
     *   **Tailwind CSS**
+    *   ****
 *   **Outras:**
     *   **Automação de Processos**
     *   **Integração de APIs**
     *   **Criação de Prompts para IA**
     *   **Desenvolvimento e uso de Chatbots**
-    *   **Análise Técnica**
+    *   **Análise Técnica**(Intermedário)
     *   **Análise Fundamentalista (Básico)**
     *   **Interpretação de Indicadores Econômicos**
     *   **Pacote Office (Avançado)**
@@ -69,34 +69,6 @@ Aqui estão alguns dos meus projetos que demonstram minhas habilidades e interes
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para discutirmos oportunidades de colaboração, principalmente em projetos que envolvam **automação, Google Apps Script, Python, IA, mercado financeiro e Web3!**
 
----
-
-**Lembre-se de:**
-
-*   **Substituir os links** entre colchetes pelos links corretos.
-*   **Adicionar outros projetos** relevantes que você tenha desenvolvido.
-*   **Manter o README atualizado** com seus projetos e habilidades mais recentes.
-*   **Fixar (pin)** os repositórios mais importantes no seu perfil.
-*   **Usar os tópicos (topics)** para categorizar seus repositórios (ex: `google-apps-script`, `python`, `automation`, `web3`, `chatbot`, `ia`, `openai-api`, `nextjs`, `typescript`, `tailwind-css`, etc.).
-
-Este README de perfil está bem completo e destaca suas principais habilidades e experiências. Ele certamente chamará a atenção de recrutadores e outros desenvolvedores!
-
-**Próximos Passos:**
-
-1.  **Crie o repositório com o seu nome de usuário no GitHub e adicione este README.**
-2.  **Continue aprimorando seus projetos e adicionando novos ao seu portfólio.**
-3.  **Divulgue seu perfil do GitHub no seu LinkedIn e em outras redes sociais.**
-
-Estou aqui para te ajudar com qualquer outra dúvida que você tiver!
-Sou um [sua profissão/área de atuação] apaixonado por [suas áreas de interesse]. Este é o meu portfólio no GitHub, onde compartilho projetos de código aberto e contribuições.
-
-## Habilidades
-
-- JavaScript
-- Google Apps Script
-- HTML
-- CSS
-- [Outras habilidades relevantes]
 
 ## Projetos em Destaque
 
@@ -105,9 +77,5 @@ Sou um [sua profissão/área de atuação] apaixonado por [suas áreas de intere
 - [**Mais um projeto**](link-para-o-repositorio-do-mais-um-projeto): Breve descrição do mais um projeto.
 - [**Um projeto antigo**](link-para-o-repositorio-do-projeto-antigo): Breve descrição do projeto antigo.
 
-## Contato
-
-- LinkedIn: [link-para-o-seu-linkedin]
-- E-mail: [seu-email]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
